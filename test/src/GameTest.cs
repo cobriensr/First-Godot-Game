@@ -1,4 +1,4 @@
-namespace FirstGodotGame;
+namespace FirstGodotGame.test.src;
 
 using System.Threading.Tasks;
 using Godot;
