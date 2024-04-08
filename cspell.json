@@ -55,6 +55,8 @@
     "typeparamref",
     "ulong",
     "vulkan",
-    "Xunit"
+    "Xunit",
+    "Brien",
+    "OBrien"
   ]
 }
